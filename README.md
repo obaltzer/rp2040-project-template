@@ -1,4 +1,6 @@
-# Project template for rp2040-hal
+# Project template for rp2040-hal (VS Code Remote Container PicoProbe OCD)
+
+This project template fork focuses on VS Code setup using Remote Containers with PicoProbe and OpenOCD. Using VS Code with the [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension, open this folder in a container and press F5 to start a debugger.
 
 This template is intended as a starting point for developing your own firmware based on the rp2040-hal.
 
